@@ -1,0 +1,9 @@
+  // Future<void> newsLoadRuEvent(event, emit) async {
+  //   emit(NewsLoadingState());
+  //   try {
+  //     final RssFeed? loadedNews = await newsRepository.getAllNews(lang: 'ru');
+  //     emit(NewsLoadedState(newsFeed: loadedNews));
+  //   } catch (e) {
+  //     emit(NewsLoadingState());
+  //   }
+  // }
